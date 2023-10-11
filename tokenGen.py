@@ -62,4 +62,4 @@ encrypt_credentials()
 # Generate a new token every minute
 while True:
     generate_token()
-    time.sleep(10)  # Wait for 1 minute
+    time.sleep(60)  # Wait for 1 minute
