@@ -115,5 +115,4 @@ This project consists of three main files: `credentials.json`, `requirements.txt
 - Ensure that the virtual environment is activated whenever you are running the script.
 - Make sure all the fields in `credentials.json` are filled out correctly.
 - Check the console for any error messages that may indicate what's going wrong.
-
-This should cover the setup, configuration, and usage of the Token Generator script along with some examples of how to integrate the generated tokens with other services or tools.
+  
